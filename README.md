@@ -40,6 +40,7 @@ class Student{
 * Public can only be accessed by objects.
 * Static can be accsed without needing to creat an object.
 
+## Part 3 - Dogs
 * View the image below, and from the image, construct a Java file **Dog** that mirrors the diagrammed class and the 3 dog objects.
 ![Dog Class](images/ClassVSObject.png)
 
