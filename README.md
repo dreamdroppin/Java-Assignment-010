@@ -36,6 +36,9 @@ class Student{
 
 * Read the W3Schools page on class methods: [W3Schools Java Class Methods](https://www.w3schools.com/java/java_class_methods.asp)
 * In your own words, write a few sentences below explaining the difference between static and public methods in relation to a class.
+* ------
+* Public can only be accessed by objects.
+* Static can be accsed without needing to creat an object.
 
 ## Part 3 - Dogs
 
